@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello, World!
+### Some quick facts: 
+- I'm Dhruv Venkataraman (he/him). I'm 18!
+- I'm a **freshman** at the Ohio State University! I'm studying CSE and Business, and I expect to graduate 2024/5
+- I'm currently learning how to use Stripe, React, and other front-end frameworks!
+- I'm an ** experienced freelance developer!** Reach out to me if you're interested in working with me!
+- Want to get in touch? You can reach me at [my email](mailto:dhruv@dhruvv.tech)!
+- Fun fact: I've lived in three countries, and I speak five languages!
