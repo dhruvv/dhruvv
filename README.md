@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 ## Hello, World!
 ### Some quick facts: 
-- I'm Dhruv Venkataraman (he/him). I'm 19!
-- I'm a **sophomore** at the Ohio State University! I'm studying CSE and Business, and I expect to graduate 2024/5
-- I'm currently learning how to use Stripe, React, and other front-end frameworks!
-- I'm an **experienced freelance developer!** Reach out to me if you're interested in working with me!
+- I'm Dhruv Venkataraman (he/him). I'm 21!
+- I'm a **senior** at the Ohio State University! I'm studying CSE and Business, and I expect to graduate May 2025
+- I'm an **experienced freelance developer!**. I've worked with many companies, both small and big! Reach out to me if you're interested in working with me!
 - Want to get in touch? You can reach me at [my email](mailto:dhruv@dhruvv.tech)!
 - Fun fact: I've lived in three countries, and I speak five languages!
