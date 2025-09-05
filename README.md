@@ -3,19 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
-## Hello, World!
-### Some quick facts: 
-- I'm Dhruv Venkataraman (he/him). I'm 21!
-- I'm a **senior** at the Ohio State University! I'm studying CSE and Business, and I expect to graduate May 2025
-- I'm an **experienced freelance developer!**. I've worked with many companies, both small and big! Reach out to me if you're interested in working with me!
-- Want to get in touch? You can reach me at [my email](mailto:dhruv@dhruvv.tech)!
-- Fun fact: I've lived in three countries, and I speak five languages!
+Hello! I'm Dhruv Venkataraman. I'm an experienced software engineer who's worked at a variety of companies, big and small. and on many different projects. 
+- 🔭 I’m currently working on building cloud gaming systems!
+- 🌱 I’m currently learning **Golang** and **Rust**
+- 👯 I’m looking to collaborate on any project! I love to try out new things!
+- 📫 How to reach me: Email me at dhruv [at] dhruvv.tech
+- ⚡ Fun fact: I've lived in 5 cities and 3 countries!
